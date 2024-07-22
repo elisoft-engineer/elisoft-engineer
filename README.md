@@ -1,8 +1,13 @@
-# Hello, This is Elkana Maina
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+This+is+Dedan+Okware;I'm+a+passionate+Software+Engineer;Interested+in+learning+new+technologies+in+tech)](https://git.io/typing-svg)
+----------------------------------------------------------------------------------------------------------------------------
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/elisoft-engineer)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elkana-maina-ab54851a0/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mainakim99)](https://twitter.com/mainakim99)
+[![](https://visitcount.itsvg.in/api?id=elisoft-engineer&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-![Profile Views](https://komarev.com/ghpvc/?username=elisoft-engineer)
 
-## Languages and Tools
+### Languages and Tools
+----------------------------------------------------------------------------------------------------------------------------
 <p align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,14 +27,29 @@
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p><br />
+
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+
+### 📈 GitHub Activity Graph:
+[![Elkana's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elisoft-engineer)](https://github.com/elisoft-engineer)
+
+
+
+### Github Streak
+----------------------------------------------------------------------------------------------------------------------------
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elisoft-engineer&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+### Github Stats
+----------------------------------------------------------------------------------------------------------------------------
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=elisoft-engineer&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=elisoft-engineer&hide=dart,django,javascript,html,css,scss,pythonless&theme=radical">
 </p>
 
-## GitHub Stats
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=elisoft-engineer&show_icons=true&theme=radical" alt="my github stats" />
-</p>
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
 
-## GitHub Activity Graph:
-[![Elkana's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=elisoft-engineer&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Replace "elisoft-engineer" with your GitHub username in the URLs above -->
