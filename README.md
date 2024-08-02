@@ -33,22 +33,6 @@
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 
-### 📈 GitHub Activity Graph:
-[![Elkana's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elisoft-engineer)](https://github.com/elisoft-engineer)
-
-
-
-### Github Streak
-----------------------------------------------------------------------------------------------------------------------------
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elisoft-engineer&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-### Github Stats
-----------------------------------------------------------------------------------------------------------------------------
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=elisoft-engineer&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=elisoft-engineer&hide=dart,django,javascript,html,css,scss,pythonless&theme=radical">
-</p>
-
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
